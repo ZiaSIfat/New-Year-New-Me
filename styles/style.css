@@ -22,7 +22,6 @@
 .header-content{
     
     text-align: right;
-    /* margin-top: 100px; */
     padding-top: 200px;
     padding-right: 100px;
     max-width: 500px;
@@ -96,7 +95,7 @@
     margin-top: 50px;
 }
 
-.btn-call{
+.btn-secondary{
     background-color: white;
     border: 0;
     padding: 10px;
