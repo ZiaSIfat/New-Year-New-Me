@@ -1,5 +1,8 @@
 .body{
-    margin: 0 130px;
+    margin: 0;
+    font-family: "Kanit", sans-serif;
+    
+      
 }
 .header{
     
@@ -75,4 +78,28 @@
 }
 .plans{
     text-align: center;
+}
+
+.positive-container{
+    color: white;
+    margin: 100px 150px;
+    border-radius: 10px;
+    max-width: 900px;
+    padding: 20px ;
+    background-image: url('../images/gradient3.png'),url('../images/watch.png');
+    height: 200px;
+    font-size: larger;
+
+}
+
+.positive{
+    margin-top: 50px;
+}
+
+.btn-call{
+    background-color: white;
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
+    color:  rgb(255, 123, 0);
 }
