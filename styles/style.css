@@ -36,12 +36,13 @@
 .picture{
     max-width: 500px;
     height: 500px;
+    background-color: ;
 }
 .failure{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0 130px;
+    margin: 50px 130px;
 }
 .failure-content{
     max-width: 500px;
