@@ -1,5 +1,5 @@
 .body{
-    margin: 0;
+    margin: 0 130px;
 }
 .header{
     
@@ -31,4 +31,27 @@
     border: 0;
     padding: 10px;
     border-radius: 5px;
+}
+
+.picture{
+    max-width: 500px;
+    height: 500px;
+}
+.failure{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 130px;
+}
+.failure-content{
+    max-width: 500px;
+    
+}
+.failure li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+.check{
+    color: rgb(99, 214, 172);
+    margin-right: 10px;
 }
